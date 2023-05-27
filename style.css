@@ -1,0 +1,226 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color:mediumpurple;
+  }
+  /* index.html css code */
+  nav{
+    z-index:100;
+    float:left;
+    padding:5px;
+    position:fixed;
+    height:100%;
+    font-size: 20px;
+    top:0px;
+    left:0px;
+  }
+  nav ul li{
+    list-style-type: none;
+    display:block;
+    margin-top:20px;
+    margin-bottom:20px;
+  }
+  #name{
+    position:absolute;
+    left:180px;
+    font-size:100px;
+    color:pink;
+    top:100px;
+  }
+  #def{
+     position:absolute;
+    left:430px;
+    font-size:30px;
+    top:230px;
+  }
+  #img1{
+    top:450px;
+    right:270px;
+    margin:10px;
+    position: absolute;
+    height:6%;
+    width:3%;
+          }
+  #des1{
+    margin:10px;
+    right:50px;
+    position: absolute;
+    top:450px;  
+    font-size: 20px;
+    width:17%;
+          }
+  #img2{
+    top:500px;
+    right:270px;
+    margin:10px;
+    position: absolute;
+    height:6%;
+    width:3%;
+          }
+  #des2{
+    margin:10px;
+    right:50px;
+    position: absolute;
+    top:500px;  
+    font-size: 20px;
+    width:17%;
+          }
+  #img3{
+    top:550px;
+    right:270px;
+    margin:10px;
+    position: absolute;
+    height:6%;
+    width:3%;
+          }
+  #des3{
+    margin:10px;
+    right:50px;
+    position: absolute;
+    top:550px;  
+    font-size: 20px;
+    width:17%;
+          }
+  
+  /* experience.html css code */
+  
+  #title2{
+    position:relative;
+    font-family:sans-serif;
+    font-size:40px;
+    left:200px;
+  }
+  #education{
+    position:relative;
+    font-family:sans-serif;
+    font-size:25px;
+    left:200px;
+    color:white;
+  }
+  #exp1{
+    position:absolute;
+    font-family:sans-serif;
+    font-size:18px;
+    left:200px;
+  }
+  #img4{
+    position: absolute;
+    right:400px;
+    height:15%;
+    width:10%;
+  }
+  #vol{
+    position:absolute;
+    font-family:sans-serif;
+    font-size:25px;
+    left:200px;
+    top:100px;
+    color:white;
+  }
+  #img5{
+    top:180px;
+    left:200px;
+    margin:10px;
+    position: absolute;
+    height:20%;
+    width:20%;
+          }
+  #des5{
+    margin:10px;
+    left:250px;
+    position: absolute;
+    top:300px;  
+    font-size: 20px;
+    width:17%;
+          }
+  #img6{
+    top:180px;
+    left:600px;
+    margin:10px;
+    position: absolute;
+    height:20%;
+    width:20%;
+          }
+  #des6{
+    margin:10px;
+    left:620px;
+    position: absolute;
+    top:300px;  
+    font-size: 20px;
+    width:17%;
+          }
+  #cc{
+    position:absolute;
+    font-family:sans-serif;
+    font-size:25px;
+    left:200px;
+    top:325px;
+    color:white;
+  }
+  #exp2{
+    position:absolute;
+    font-family:sans-serif;
+    font-size:18px;
+    left:200px;
+    top:380px;
+  }
+  #work{
+    position:absolute;
+    font-family:sans-serif;
+    font-size:25px;
+    left:200px;
+    top:520px;
+    color:white;
+  }
+  #exp3{
+    position:absolute;
+    font-family:sans-serif;
+    font-size:18px;
+    left:200px;
+    top:570px;
+  }
+  #prog{
+    position:absolute;
+    font-family:sans-serif;
+    font-size:25px;
+    left:200px;
+    top:650px;
+    color:white;
+  }
+  #exp4{
+    position:absolute;
+    font-family:sans-serif;
+    font-size:18px;
+    left:200px;
+    top:700px;
+  }
+  /* projects.html css code */
+  #prj1{
+    width:40%;
+    height:50%;
+    position:absolute;
+    top:80px;
+    left:750px;
+  }
+  #prj2{
+    width:40%;
+    height:50%;
+    position:absolute;
+    top:80px;
+    left:200px;
+  }
+  #python{
+    color:white;
+    position:absolute;
+    font-family:sans-serif;
+    font-size:30px;
+    left:180px;
+  }
+  #webdev{
+    color:white;
+    position:absolute;
+    font-family:sans-serif;
+    font-size:30px;
+    left:200px;
+    top:400px;
+  }
